@@ -1,7 +1,12 @@
+/*
+* ref: https://www.youtube.com/watch?v=3hsJD9oVknk&t=1131s
+*/
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>
 #include <SDL2/SDL.h>
+
 
 using namespace std;
 
